@@ -1,0 +1,1 @@
+y=repmat(fliplr(eye(2)), 5)
